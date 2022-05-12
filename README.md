@@ -1,2 +1,2 @@
 # MatrixCalculator
- Matrix calcularor written in C# and assembly
+ Matrix calcularor written in C# and assembly. For the GUI I used Windows Forms. 
