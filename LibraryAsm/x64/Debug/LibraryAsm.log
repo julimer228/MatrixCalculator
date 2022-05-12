@@ -1,0 +1,5 @@
+﻿  Assembling CalculatorAsm.asm...
+  LINK : C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Debug\LibraryAsm.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Debug\LibraryAsm.lib and object C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Debug\LibraryAsm.exp
+LibraryAsm.exp : warning LNK4070: /OUT:CalculatorAsm.dll directive in .EXP differs from output filename 'C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Debug\LibraryAsm.dll'; ignoring directive
+  LibraryAsm.vcxproj -> C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Debug\LibraryAsm.dll

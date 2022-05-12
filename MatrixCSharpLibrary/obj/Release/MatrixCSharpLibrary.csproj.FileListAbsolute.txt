@@ -1,0 +1,6 @@
+C:\Users\julia\source\repos\MatrixCSharpLibrary\bin\Release\MatrixCSharpLibrary.dll
+C:\Users\julia\source\repos\MatrixCSharpLibrary\bin\Release\MatrixCSharpLibrary.pdb
+C:\Users\julia\source\repos\MatrixCSharpLibrary\obj\Release\MatrixCSharpLibrary.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\MatrixCSharpLibrary\obj\Release\MatrixCSharpLibrary.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MatrixCSharpLibrary\obj\Release\MatrixCSharpLibrary.dll
+C:\Users\julia\source\repos\MatrixCSharpLibrary\obj\Release\MatrixCSharpLibrary.pdb

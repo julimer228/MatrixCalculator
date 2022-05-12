@@ -1,0 +1,22 @@
+Calculation results:
+Matrix A:
+3 1 2 -2 
+3 0 5 0 
+0 4 0 0 
+0 -9 10 0 
+Matrix B:
+2 0 4 0 
+0 0 0 -9 
+-90 0 4 0 
+0 4 0 -78 
+Operation: addition
+Result:
+5 1 6 -2 
+3 0 5 -9 
+-90 4 4 0 
+0 -5 10 -78 
+
+Language:ASM
+Time: 425155 ticks
+42 miliseconds
+Number of threads :12

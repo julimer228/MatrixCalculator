@@ -1,0 +1,6 @@
+﻿  Assembling CalculatorAsm.asm...
+     Creating library C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Release\LibraryAsm.lib and object C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Release\LibraryAsm.exp
+LibraryAsm.exp : warning LNK4070: /OUT:CalculatorAsm.dll directive in .EXP differs from output filename 'C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Release\LibraryAsm.dll'; ignoring directive
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+LibraryAsm.exp : warning LNK4070: /OUT:CalculatorAsm.dll directive in .EXP differs from output filename 'C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Release\LibraryAsm.dll'; ignoring directive
+  LibraryAsm.vcxproj -> C:\Users\julia\OneDrive\Desktop\JA_JuliaMerta_Final\JA_JuliaMerta\MatrixCalculatorJAProject\x64\Release\LibraryAsm.dll

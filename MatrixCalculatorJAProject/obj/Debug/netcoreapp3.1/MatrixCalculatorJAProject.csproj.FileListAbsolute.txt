@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.exe
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.deps.json
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.runtimeconfig.json
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.runtimeconfig.dev.json
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.dll
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\bin\Debug\netcoreapp3.1\MatrixCalculatorJAProject.pdb
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.AssemblyInfo.cs
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.dll
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.pdb
+C:\Users\julia\source\repos\MatrixCalculatorJAProject\obj\Debug\netcoreapp3.1\MatrixCalculatorJAProject.genruntimeconfig.cache

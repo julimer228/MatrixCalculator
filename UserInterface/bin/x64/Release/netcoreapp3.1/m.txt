@@ -1,0 +1,13 @@
+Calculation results:
+Matrix A:
+612.124161614163 
+Matrix B:
+654.059995270362 
+Operation: addition
+Result:
+1266.184156884525 
+
+Language:ASM
+Time: 227 ticks
+0 miliseconds
+Number of threads :1

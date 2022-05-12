@@ -1,0 +1,5 @@
+LIBRARY CalculatorAsm
+EXPORTS AsmMultiplyProc
+EXPORTS AsmSubProc 
+EXPORTS AsmAddProc
+
